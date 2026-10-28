@@ -6,11 +6,11 @@ A structured repository containing detailed theoretical notes, concepts, code sn
 
 ## 📌 Topics & Roadmap
 
-- [x] **Basics** _(C++ Fundamentals, Pointers, Memory Allocation, Complexity)_
+- [x] **Basics** _(C++ Fundamentals, Pointers, Memory Allocation)_
+- [x] **Recursion**
 - [ ] **Binary Search**
 - [ ] **Linked Lists (LLs)**
 - [ ] **Queues**
-- [ ] **Recursion**
 - [ ] **Sets**
 - [ ] **Sorting Algorithms**
 - [ ] **Stacks**
