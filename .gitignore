@@ -1,23 +1,21 @@
 # -----------------------------------------------------------------------------
-# 1. Ignore all subdirectories by default
+#  Ignore all subdirectories by default
 # -----------------------------------------------------------------------------
 /*/
 
-# -----------------------------------------------------------------------------
-# 2. Whitelisted Folders (Remove '#' to start tracking on GitHub)
-# -----------------------------------------------------------------------------
+
 !/Basics/
+!/Recursion/
 # !/Binary Search/
 # !/LLs/
 # !/Queues/
-# !/Recursion/
 # !/Sets/
 # !/Sorting Algorithms/
 # !/Stacks/
 # !/Strings/
 
 # -----------------------------------------------------------------------------
-# 3. System & Editor Junk Files
+# System & Editor Junk Files
 # -----------------------------------------------------------------------------
 .DS_Store
 Thumbs.db
