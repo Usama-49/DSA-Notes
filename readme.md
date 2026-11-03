@@ -8,7 +8,7 @@ A structured repository containing detailed theoretical notes, concepts, code sn
 
 - [x] **Basics** _(C++ Fundamentals, Pointers, Memory Allocation)_
 - [x] **Recursion**
-- [ ] **Binary Search**
+- [x] **Binary Search**
 - [ ] **Linked Lists (LLs)**
 - [ ] **Queues**
 - [ ] **Sets**
